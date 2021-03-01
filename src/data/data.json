@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "salary": 12000,
+    "country": "Bangladesh",
+    "role": "Allrounder",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg"
+  }, {
+    "id": 2,
+    "name": "Mahrafee Bin Mortaza",
+    "salary": 11000,
+    "country": "Bangladesh",
+    "role": "Fast Bowler",
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170920/mashrafe-mortaza.jpg"
+  },  {
+    "id": 3,
+    "name": "Mushfiqur Rahim",
+    "salary": 11000,
+    "country": "Bangladesh",
+    "role": "WK-Batsman",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg"
+  }, {
+    "id": 4,
+    "name": "Mahmudullah",
+    "salary": 11000,
+    "country": "Bangladesh",
+    "role": "Allrounder",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg"
+  }, {
+    "id": 5,
+    "name": "Tamim Iqbal",
+    "salary": 10000,
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg"
+  },{
+    "id": 6,
+    "name": "David Warner",
+    "salary": 12000,
+    "country": "Australia",
+    "role": "Batsman",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170635/david-warner.jpg"
+  }, {
+    "id": 7,
+    "name": "Steven Smith",
+    "salary": 13000,
+    "country": "Australia",
+    "role": "Batsman",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170624/steven-smith.jpg"
+  }, {
+    "id": 8,
+    "name": "Mitchell Starc",
+    "salary": 10000,
+    "country": "Australia",
+    "role": "Fast Bowler",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170643/mitchell-starc.jpg"
+  }, {
+    "id": 9,
+    "name": "AB de Villiers",
+    "salary": 13000,
+    "country": "South Africa",
+    "role": "WK-Batsman",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170999/ab-de-villiers.jpg"
+  }, {
+    "id": 10,
+    "name": "Faf du Plessis",
+    "salary": 12500,
+    "country": "South Africa",
+    "role": "Batsman",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170639/faf-du-plessis.jpg"
+  }, {
+    "id": 11,
+    "name": " Kagiso Rabada",
+    "salary": 9000,
+    "country": "South Africa",
+    "role": "Fast Bowler",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170759/kagiso-rabada.jpg"
+  }, {
+    "id": 12,
+    "name": "Mustafizur Rahman",
+    "salary": 9000,
+    "country": "Bangladesh",
+    "role": "Fast Bowler",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg"
+  }, {
+    "id": 13,
+    "name": "Rashid Khan",
+    "salary": 8000,
+    "country": "Afghanistan",
+    "role": "Right-arm legbreak",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170857/rashid-khan.jpg"
+  }, {
+    "id": 14,
+    "name": "Jofra Archer",
+    "salary": 9500,
+    "country": "England",
+    "role": "Fast Bowler",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170970/jofra-archer.jpg"
+  }, {
+    "id": 15,
+    "name": "Moeen Ali",
+    "salary": 9000,
+    "country": "England",
+    "role": "Allrounder",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170953/moeen-ali.jpg"
+  }]

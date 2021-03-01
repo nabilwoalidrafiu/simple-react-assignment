@@ -1,0 +1,21 @@
+.selected-team{
+    background-color: lightsalmon;
+    padding: 20px;
+}
+.selected-team h2{
+    background-color: blue;
+    color: white;
+    padding:0px 10px;
+}
+.selected-team h5{
+    font-weight: bold;
+}
+.player-selected{
+    border-radius:5% ;
+    border: 1px solid black;
+    margin: 10px;
+}
+.player-selected img{
+    height: 200px;
+    border-radius: 50%;
+}

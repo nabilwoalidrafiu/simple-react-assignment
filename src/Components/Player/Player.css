@@ -1,0 +1,12 @@
+.players-info{
+    width: 300px;
+   float: left;
+   padding: 10px;
+   margin: 10px;
+   background-color: lightgray;
+   border-radius: 5%;
+
+}
+img{
+    height: 250px;
+}
