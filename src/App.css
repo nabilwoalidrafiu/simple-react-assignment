@@ -7,6 +7,13 @@
 .player-15{
   width: 80%;
   border-right: 1px solid grey;
-  /* margin-right: -30px; */
   padding-right: -60px;
+}
+
+.player-15 h2{
+  background-color: blue;
+  color: white;
+  padding:10px;
+  width: 20%;
+  margin: 0 auto;
 }
